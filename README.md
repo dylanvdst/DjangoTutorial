@@ -11,3 +11,6 @@ pip install --user django-polls-0.1.tar.gz
 
 
 python manage.py runserver
+
+
+Go to: http://localhost:8000/polls
